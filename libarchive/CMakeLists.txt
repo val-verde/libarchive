@@ -7,6 +7,7 @@
 
 # Public headers
 SET(include_HEADERS
+  android_lf.h
   archive.h
   archive_entry.h
 )
